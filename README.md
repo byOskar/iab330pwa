@@ -1,5 +1,7 @@
 # IAB330 Progressive Web App
 
+Developed by Oskar Sherrah
+
 ## Available Scripts
 
 In the project directory, you can run:
