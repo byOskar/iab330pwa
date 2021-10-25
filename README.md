@@ -1,6 +1,6 @@
 # IAB330 Progressive Web App
 
-Developed by Oskar Sherrah
+Developed by Oskar Sherrah.
 
 ## Available Scripts
 
